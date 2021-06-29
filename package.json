@@ -1,0 +1,14 @@
+{
+  "name": "coloringapp",
+  "version": "1.0.0",
+  "description": "test svg coloring app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stu Royce",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
